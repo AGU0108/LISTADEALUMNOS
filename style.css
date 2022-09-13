@@ -1,0 +1,20 @@
+body{
+  background-image: url("https://cutewallpaper.org/28/cute-back-to-school-wallpaper/124627736.jpg");
+}
+h1{
+    color:#BE9EF2 ;
+    background-color: black;
+}
+button{
+    color: lightcoral;
+}
+#nombre-alumno{
+    color: pink;
+    background-color: yellow;
+    width: 300px;
+}
+#ver-nombre{
+    color: #BE9EF2;
+    background-color: black;
+    width: 5000px;
+}
